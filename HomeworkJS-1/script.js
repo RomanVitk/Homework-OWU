@@ -1,4 +1,6 @@
-let str = 'hello';
+/*1*/
+
+/*let str = 'hello';
 let str1 = 'owu';
 let str2 = 'com';
 let str3 = 'ua';
@@ -10,14 +12,18 @@ let num4 = 3.14;
 let num5 = 2.7;
 let num6 = 16;
 let btrue = true;
-let bfalse = false;
+let bfalse = false;*/
 
-alert(str);
+/*2*/
+
+/*alert(str);
 console.log(btrue);
-document.write(num);
+document.write(num);*/
 
 
-hello = 'привіт';
+/*3*/
+
+/*hello = 'привіт';
 owu = 'школа';
 com = 'домен';
 ua = 'домен1';
@@ -34,10 +40,12 @@ nil = false;
 alert(hello);
 console.log(nil);
 document.write(owu);
-document.write('<br>');
+document.write('<br>');*/
 
 
-const numb1 = 25;
+/*4*/
+
+/*const numb1 = 25;
 const numb2 = 777;
 const numb3 = 100500;
 
@@ -53,9 +61,11 @@ document.write('<br>');
 document.write(numb2);
 document.write('<br>');
 document.write(numb3);
-document.write('<br>');
+document.write('<br>');*/
 
-const stri1 = 'hi';
+/*5*/
+
+/*const stri1 = 'hi';
 const stri2 = 'my name is Roman';
 const stri3 = 'nice to meet you';
 console.log(stri1);
@@ -70,23 +80,24 @@ document.write('<br>');
 document.write(stri2);
 document.write('<br>');
 document.write(stri3);
-document.write('<br>');
+document.write('<br>');*/
 
+/*6*/
 
-let lastName = prompt ('Your Last Name?');
+/*let lastName = prompt ('Your Last Name?');
 let name = prompt('Your Name?');
 let surName = prompt('Your Surname?');
 
 console.log('Vitkovskyi');
 console.log('Roman');
-console.log('Stanislavovych');
+console.log('S');
 alert('Vitkovskyi');
 alert('Roman');
-alert('Stanislavovych');
+alert('S');
 document.write('<br>');
 document.write('Vitkovskyi');
 document.write('Roman');
-document.write('Stanislavovych');
+document.write('S');
 
 
 
@@ -98,22 +109,22 @@ let fatherName = prompt('Father all Name?');
 let motherName = prompt('Mother all Name?');
 let brotherName = prompt('Brother all Name?');
 
-console.log('Vitkovskyi Stanislav Oleksievych');
-console.log('Vitkovska Svitlana Ivanivna');
-console.log('Vitkovskyi Volodymyr Stanislavovych');
-alert('Vitkovskyi Stanislav Oleksievych');
-alert('Vitkovska Svitlana Ivanivna');
-alert('Vitkovskyi Stanislav Oleksievych');
+console.log('Vitkovskyi Stanislav O');
+console.log('Vitkovska Svitlana I');
+console.log('Vitkovskyi Volodymyr S');
+alert('Vitkovskyi Stanislav O');
+alert('Vitkovska Svitlana I');
+alert('Vitkovskyi Stanislav O');
 document.write('<br>');
-document.write('Vitkovskyi Stanislav Oleksievych');
+document.write('Vitkovskyi Stanislav O');
 document.write('<br>');
-document.write('Vitkovska Svitlana Ivanivna');
+document.write('Vitkovska Svitlana I');
 document.write('<br>');
-document.write('Vitkovskyi Stanislav Oleksievych');
+document.write('Vitkovskyi Stanislav O');*/
 
+/*7*/
 
-
-let numr1 = +prompt('Enter number 1: ');
+/*let numr1 = +prompt('Enter number 1: ');
 let numr2 = +prompt('Enter number 2: ');
 let numr3 = +prompt('Enter number 3: ');
 
@@ -133,7 +144,7 @@ let parseInt3 = parseInt(prompt('number 3'));
 console.log(number3);
 let number4 = ('number4');
 let parseInt4 = parseInt(prompt('number 4'));
-console.log(number4);
+console.log(number4);*/
 
 
 
